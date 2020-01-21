@@ -12,3 +12,5 @@ bug fix branch line added
 change in feature branch
 
 Another line change in feature branch
+
+Bug FIX branch
